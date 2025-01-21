@@ -1,0 +1,1 @@
+Ejercicios de la materia "Programación Orientada a Objetos I" realizados en lenguaje java, trabajando con una introducción al Lenguaje Orientado a Objetos, encapsulamiento, herencia, polimorfismo, colecciones, excepciones y archivos.
